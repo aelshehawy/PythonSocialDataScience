@@ -80,7 +80,14 @@ _What did we cover:_
 3. BeautifulSoup
 4. Messy Data Cleaning Mechanisms
 
+- **Week 6: Twitter, Natural Language Processing, and Mini Intro to Machine Learning**
 
+1. Twitter API and Data Retrieval 
+2. Natural Language Processing Intro 
+3. Named Entity Recognition
+4. Pos-tagging
+5. Sentiment Analysis
+6. Unsupervised Machine Learning
 
 
 <br><br><br><br><br>
